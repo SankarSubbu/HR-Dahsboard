@@ -32,4 +32,4 @@ The goal is to enable HR teams and management to quickly assess employee data an
 ---
 
 ## 📊 Dashboard Previews
-![Image]("<img width="1548" height="877" alt="Image" src="https://github.com/user-attachments/assets/980ffb64-610e-4c4e-b69a-6e704c466e5a" />)
+!("<img width="1548" height="877" alt="Image" src="https://github.com/user-attachments/assets/980ffb64-610e-4c4e-b69a-6e704c466e5a" />)
